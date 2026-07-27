@@ -35,7 +35,7 @@ Aplicação desenvolvida em **Delphi** como parte da avaliação técnica. O pro
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 - Embarcadero **Delphi** (XE / RAD Studio 10.x / 11 / 12 / CE)
@@ -51,7 +51,7 @@ Abra o arquivo de projeto .dpr no Delphi.
 
 Compile e execute o projeto (F9).
 
-🧪 Como Usar
+Como Usar
 Ao abrir a aplicação, os campos virão preenchidos por padrão com o cenário do Exercício 1:
 
 Profundidade: 20
